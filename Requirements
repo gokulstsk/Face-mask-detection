@@ -1,0 +1,7 @@
+pip install tensorflow==2.5.0
+pip install keras
+pip install imutils
+pip install numpy
+pip install opencv-python
+pip install matplotlib
+pip install scipy
